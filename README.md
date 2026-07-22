@@ -1,4 +1,33 @@
-#FPGA-Based Traffic Light Controller using Verilog HDL
+------------------------------------------------
+        FPGA TRAFFIC LIGHT CONTROLLER
+             (large diagram/banner)
+------------------------------------------------
+
+![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
+
+![Vivado](https://img.shields.io/badge/Tool-Xilinx%20Vivado-orange)
+
+![FPGA](https://img.shields.io/badge/Platform-FPGA-success)
+
+![FSM](https://img.shields.io/badge/Design-Finite%20State%20Machine-green)
+
+# FPGA-Based Traffic Light Controller using Verilog HDL
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Working Principle](#working-principle)
+- [Detailed FSM State Transition Diagram](#detailed-fsm-state-transition-diagram)
+- [Project Architecture](#project-architecture)
+- [FSM State Description](#fsm-state-description)
+- [Simulation Results](#simulation-results)
+- [Project Directory Structure](#project-directory-structure)
+- [Hardware and Software Requirements](#hardware-and-software-requirements)
+- [How to Run](#how-to-run)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
+
 
 An FPGA-based Traffic Light Controller implemented using **Verilog HDL** to manage traffic at a two-road intersection. The controller is designed using a **Finite State Machine (FSM)** and includes **emergency vehicle priority**, allowing ambulances, fire trucks, and police vehicles to receive immediate right of way.
 
