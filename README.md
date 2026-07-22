@@ -141,6 +141,18 @@ The Traffic Light Controller is implemented as a six-state Finite State Machine 
 | **S4** | Side Road Priority (Emergency) | 🔴 Red | 🟢 Green | `Side_Special = 1` |
 | **S5** | Main Road Priority (Emergency) | 🟢 Green | 🔴 Red | `Main_Special = 1` |
 
+![Simulation Waveform](images/simulation_waveform.png)
+
+### Waveform Analysis
+
+The simulation verifies the following:
+
+- The Clock (Clk) drives the sequential operation of the FSM.
+- The Reset (Rst) initializes the controller.
+- Main_Special and Side_Special represent emergency vehicle requests.
+- Main_light and Side_light change according to the FSM state.
+- The controller follows the sequence:
+  S0 → S1 → S2 → S3 → S0
 
 
 
