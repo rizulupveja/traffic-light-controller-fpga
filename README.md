@@ -1,8 +1,4 @@
-------------------------------------------------
-        FPGA TRAFFIC LIGHT CONTROLLER
-             (large diagram/banner)
-------------------------------------------------
-
+# FPGA-Based Traffic Light Controller using Verilog HDL
 ![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
 
 ![Vivado](https://img.shields.io/badge/Tool-Xilinx%20Vivado-orange)
