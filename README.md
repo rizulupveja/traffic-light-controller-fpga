@@ -1,4 +1,6 @@
 # FPGA-Based Traffic Light Controller using Verilog HDL
+
+
 ![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
 
 ![Vivado](https://img.shields.io/badge/Tool-Xilinx%20Vivado-orange)
@@ -7,7 +9,7 @@
 
 ![FSM](https://img.shields.io/badge/Design-Finite%20State%20Machine-green)
 
-# FPGA-Based Traffic Light Controller using Verilog HDL
+
 
 ## Table of Contents
 
