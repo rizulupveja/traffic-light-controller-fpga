@@ -1,0 +1,36 @@
+# Vivado generated files
+.cache/
+.gen/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.Xil/
+
+# Log files
+*.log
+*.jou
+*.str
+
+# Backup files
+*.backup
+*.bak
+
+# Temporary files
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Simulation output
+*.wdb
+*.pb
+
+# Generated bitstream reports (optional)
+*.bit
+*.bin
